@@ -1,0 +1,5 @@
+input a and b
+a = 10 and b = 20
+a = a+b
+b = b+a
+print("a+b")
